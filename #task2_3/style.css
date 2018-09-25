@@ -1,0 +1,185 @@
+.menu a{
+    color: green;
+    padding: 10px;
+}
+.bmw{
+    border: 1px solid red;
+    border-radius: 5px;
+    display: inline-block;
+    width: 700px;
+    margin: 10px;    
+}
+.bmw img{
+    width: 120px;
+    height: 80px;
+    position:inherit;
+    top: 10px;
+    left: 100px;
+    right: 10px;
+    margin: 20px;  
+   
+}
+.bmw a{
+    position: absolute;
+    top: 40px;
+    left: 185px;
+    font-size: 40px;
+    display: inline-block; 
+}
+.p1{
+    position: absolute;
+    top: 40px;
+    left: 480px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.h1{
+    font-size: 32px;
+    position: absolute;
+    top: 18px;
+    left: 520px;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: rgb(242, 191, 172);
+    display: inline-block;
+    font-weight: 100;
+    right: 715px;
+    padding: 8px;
+    height: 30px;
+    color: green;
+    width: 120px;
+}
+.bmwh{
+    font-weight: 200;
+    position: absolute;
+    top: 70px;
+    left: 185px
+}
+.city{
+    font-weight: 200;
+    position: absolute;
+    top: 100px;
+    left: 180px   
+}
+span{
+    font-weight: bold;
+}
+
+.porsche{
+    border: 1px solid red;
+    border-radius: 5px;
+    display: inline-block;
+    width: 700px;
+    margin: 10px; 
+    background-color: yellow;
+}
+.porsche img{
+    width: 120px;
+    height: 80px;
+    position:inherit;
+    top: 10px;
+    left: 100px;
+    right: 10px;
+    padding: 20px;
+}
+.porscheh{
+    font-weight: 200;
+    position: absolute;
+    top: 230px;
+    left: 185px
+}
+.porsche a{
+    position: absolute;
+    top: 190px;
+    left: 185px;
+    font-size: 40px;
+    display: inline-block;
+}
+.porcity{
+    font-weight: 200;
+    position: absolute;
+    top: 260px;
+    left: 180px
+}
+.h2{
+    font-size: 32px;
+    position: absolute;
+    top: 170px;
+    left: 520px;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: rgb(242, 191, 172);
+    display: inline-block;
+    font-weight: 100;
+    right: 725px;
+    padding: 8px;
+    height: 30px;
+    color: green;
+    width: 120px;
+}
+
+#p2{
+    position: absolute;
+    top: 190px;
+    left: 480px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.audi{
+    border: 1px solid red;
+    border-radius: 5px;
+    display: inline-block;
+    width: 700px;
+    margin: 10px; 
+}
+.audi img{
+    width: 120px;
+    height: 90px;
+    position:inherit;
+    top: 10px;
+    left: 100px;
+    right: 10px;
+    padding: 20px;
+}
+.audi a{
+    position: absolute;
+    top: 340px;
+    left: 185px;
+    font-size: 40px;
+    display: inline-block; 
+}
+.audih{
+    font-weight: 200;
+    position: absolute;
+    top: 380px;
+    left: 185px
+}
+.city3{
+    font-weight: 200;
+    position: absolute;
+    top: 410px;
+    left: 180px
+}
+#p3{
+    position: absolute;
+    top: 340px;
+    left: 350px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.h3{
+    font-size: 32px;
+    position: absolute;
+    top: 315px;
+    left: 400px;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: rgb(242, 191, 172);
+    display: inline-block;
+    font-weight: 100;
+    right: 725px;
+    padding: 8px;
+    height: 30px;
+    color: green;
+    width: 120px;
+}

@@ -1,0 +1,48 @@
+h1{
+    color: green;
+}
+span{
+    color: red;
+}
+.list{
+    border: 1px solid red;
+    border-radius: 10px;
+    border-width: medium;
+    display: inline-block;
+    width: 500px;;
+
+}
+.list ul li a{
+    text-decoration: none;
+}
+.list ul li{
+    font-size: 30px;
+    
+}
+.list ul li.retake a{
+    color: red;
+   
+}
+.cont_us{
+    border: 1px solid blue;
+    border-radius: 50px;
+    font-size: 30px;
+    text-decoration: none;
+    display: block;
+    width: 160px;
+    text-align: center;
+    margin: 5px;
+    
+    
+}
+.cont_us:active,
+.cont_us:hover{
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.5s,border 0.5s,color 0.5s;
+    background-color: green;
+    color: #fff;
+    margin: 5px;
+    
+    
+}
